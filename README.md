@@ -1,8 +1,8 @@
 
 
-Web Applications vulnerability Scanner + admin-finder + Portscan.
+Web Applications vulnerability Scanner 
 
-By George Adel - Zeyad Ali - Zeyad Abdelsattar  
+By George Adel 
 
 
 How to use:
